@@ -1,0 +1,41 @@
+
+h1{
+    
+    color: white;
+    border: 20px;
+    margin: 10px;
+}
+.innerContent{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.title{
+    background-color: black;color: aliceblue;
+}
+
+body{
+    background-color:purple;
+}
+
+#userInput{
+    width: 30%;
+    height: 70px;
+}
+.item{
+    
+    width: 300px;
+    height: 500px;
+    background-color:plum;
+    margin:10px;
+    border: 0ch;
+    padding: 30s;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;    
+}
+.container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
